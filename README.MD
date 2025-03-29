@@ -56,3 +56,15 @@ Bu doküman, belirli renk etiketlerinin (tags) kullanımını ve temsil ettikler
 
 Bu renk etiketlerini, metinlerinizi renklendirmek ve kategorize etmek için kullanabilirsiniz.
 
+### Örnek Kullanım : 
+python:
+`print("Hello World") #2sb Bu satır konsola Hello World çıktısı verir.` 
+C++:
+`cout << "Hello World"; //2bg Bu satır konsola Hello World çıktısı verir.`
+Birden fazla yorum satırı: 
+`console.log("Hello World") //2bg Bu satır konsola Hello World çıktısı verir.`
+`/*                      `
+`2sg (yeşil arkaplan)    `
+`1b (mavi yorum)         `
+`3sgb (cyan arkaplan)    `
+`*/                      `
